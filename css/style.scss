@@ -14,14 +14,14 @@ html, body {
   padding: 0;
 }
 
-h1 {
-  color: red;
-}
-
 header {
   background-color: #fcbc00;
   color: black;
   height: 100px;
+}
+
+.newArticle {
+  display: flex !important;
 }
 
 #topPage {
